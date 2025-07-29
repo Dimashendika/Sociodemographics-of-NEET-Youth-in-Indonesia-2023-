@@ -33,24 +33,24 @@ Interestingly, youth with higher education levels are more likely to become NEET
 **Recommendations**
 
 Bridge Rural Gaps
-Expand access to education, vocational training, and modern agricultural jobs in rural areas to reduce geographic inequality.
+- Expand access to education, vocational training, and modern agricultural jobs in rural areas to reduce geographic inequality.
 
 Support Female Participation
-Provide gender-responsive policies such as vocational programs for women, childcare subsidies, and flexible work to encourage education and employment access.
+- Provide gender-responsive policies such as vocational programs for women, childcare subsidies, and flexible work to encourage education and employment access.
 
 Assist Married Youth
-Offer support for young married individuals—especially women—through programs like affordable childcare and re-skilling pathways.
+- Offer support for young married individuals—especially women—through programs like affordable childcare and re-skilling pathways.
 
 Align Education with Jobs
-Improve school-to-work transitions by adopting dual education or apprenticeship models that link formal education to labor market needs.
+- Improve school-to-work transitions by adopting dual education or apprenticeship models that link formal education to labor market needs.
 
 Scale Up Skills Training
-Enhance programs like the Pre-Employment Card, with a focus on remote areas and long-term employability.
+- Enhance programs like the Pre-Employment Card, with a focus on remote areas and long-term employability.
 
 Address Youth Health Barriers
-Introduce health-oriented support (e.g., job placement or mental health services) for youth with physical or psychological health challenges.
+- Introduce health-oriented support (e.g., job placement or mental health services) for youth with physical or psychological health challenges.
 
 Target Vulnerable Families
-Provide conditional cash transfers and access to education for youth from large or low-income households to break the cycle of disadvantage.
+- Provide conditional cash transfers and access to education for youth from large or low-income households to break the cycle of disadvantage.
 
  
